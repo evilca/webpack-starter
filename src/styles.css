@@ -1,0 +1,9 @@
+html, body{
+    margin: 0;
+    background-color: greenyellow;
+}
+
+img{
+    height: 150px;
+    width: 350px;
+}
