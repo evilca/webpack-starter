@@ -1,8 +1,11 @@
 # webpack-starter
 Este es el cascaron para mis aplicaciones Webpack
 
-To Inicialize project, you should run on terminal:
-# npm install
+# To re-create node_modules
+npm install
 
-To Run Dev Server
-# npm run build
+# To compile prod-script
+npm run build
+
+# To run Prod-server
+npm start
